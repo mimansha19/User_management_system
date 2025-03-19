@@ -5,7 +5,7 @@
 1. Clone the repository.
 2. Install dependencies: `npm install`
 3. Create a `.env` file with `MONGO_URI`, `JWT_SECRET`, and `PORT`.
-4. Run the application: `npm start`
+4. Run the backend: `node app.js`
 
 ## API Endpoints
 
