@@ -16,6 +16,3 @@
 - **Update User**: `PUT /api/users/:id` (Requires JWT token)
 - **Delete User**: `DELETE /api/users/:id` (Requires JWT token)
 
-## Testing
-
-Run unit tests with `npm test` (Not implemented in this version)
